@@ -1,2 +1,2 @@
-# dotnet_courses
-.NET courses
+# .NET courses
+## Compilation of the most popular and useful courses
